@@ -1,7 +1,9 @@
 # 📋 Order Summary Card
 
 🚀 Live Demo
-🛍️ View Order Summary Card Live
+## 🚀 Live Demo
+
+[👥 View order summary card Live](https://order-summary-card-proj.vercel.app/)
 
 A modern and fully responsive Order Summary Card built with HTML and CSS. The project features a clean, visually appealing layout designed to present subscription details with a clear call-to-action. It demonstrates strong front-end fundamentals, responsive design principles, and attention to UI styling.
 
